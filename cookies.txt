@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+labanquepostale.fr	TRUE	/	FALSE	1999999999	lbp_csid	/UcDZujUUntg5VvDoV0zHLvg6gIRVzpdhS1bb63uxY0=
+www.labanquepostale.fr	TRUE	/	FALSE	1999999999	SameSite	None 
+labanquepostale.fr	TRUE	/	FALSE	1999999999	TS01c8070a	01ecff8ec1b7862e83987a33d1b1bd306d1fdc94be581e347d26af840e0a4ac69aeb9c5b06207bf67d84eb9d7ec30f5019efbc7311f0381fbc2e6814ffe81e6004994fe93f
+www.georisques.gouv.fr	TRUE	/	FALSE	1999999999	BIGipServerpool_georisques_preventix_web_https	1008212140.47873.0000
+.www.georisques.gouv.fr	TRUE	/	FALSE	1999999999	TS01e3f304	01ce77d60018280bbf0da80144911369530845772bd36a071adc3f9ea9815cdf83a14327334a43d3e39a9a004d958df3e20230a40f
+www.labanquepostale.fr	TRUE	/	FALSE	1999999999	TS01ab80cb	01ecff8ec1f9fa6c4ea688a7d95f062e913fe6e01476606ec721fe1cb9de6ca823f264beed0bce650c1dc25e4cbe3c418a838929cf
+
